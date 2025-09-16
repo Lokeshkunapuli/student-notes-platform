@@ -1,9 +1,9 @@
-<<<<<<< HEAD
+
 # Student Notes & Resource Sharing Platform
 
 A full-stack MERN application that allows students to share, discover, and manage educational resources and notes. Built with React, Node.js, Express, and MongoDB.
 
-## 🌟 Features
+##  Features
 
 ### Core Functionality
 - **User Authentication**: Secure signup/login with JWT tokens
@@ -20,7 +20,7 @@ A full-stack MERN application that allows students to share, discover, and manag
 - **Responsive Design**: Works on desktop, tablet, and mobile devices
 - **Real-time Updates**: Instant UI updates for all actions
 
-## 🚀 Tech Stack
+##  Tech Stack
 
 ### Frontend
 - **React 18** - UI library
@@ -38,7 +38,7 @@ A full-stack MERN application that allows students to share, discover, and manag
 - **bcryptjs** - Password hashing
 - **CORS** - Cross-origin resource sharing
 
-## 📁 Project Structure
+##  Project Structure
 
 ```
 Student-Notes-Platform/
@@ -67,7 +67,7 @@ Student-Notes-Platform/
 └── README.md              # This file
 ```
 
-## 🛠️ Installation & Setup
+##  Installation & Setup
 
 ### Prerequisites
 - Node.js (v16 or higher)
@@ -108,7 +108,7 @@ npm install
 
 Create a `.env` file in the frontend directory:
 ```env
-VITE_API_BASE_URL=http://localhost:5000
+VITE_API_BASE_URL=https://student-notes-platform.onrender.com
 ```
 
 Start the frontend development server:
@@ -120,22 +120,22 @@ npm run dev
 - Frontend: https://student-notes-platform.onrender.com
 - Backend API: https://student-notes-backend-vugj.onrender.com
 
-## 🚀 Deployment
+##  Deployment
 
-### Backend (Render/Heroku)
+### Backend (Render)
 1. Push your code to GitHub
-2. Connect your repository to Render/Heroku
+2. Connect your repository to Render
 3. Set environment variables in the deployment platform
 4. Deploy
 
-### Frontend (Vercel/Netlify)
+### Frontend (render)
 1. Connect your GitHub repository
 2. Set build command: `npm run build`
 3. Set output directory: `dist`
-4. Set environment variable: `VITE_API_BASE_URL=https://your-backend-url.com`
+4. Set environment variable: `VITE_API_BASE_URL=https://student-notes-backend-vugj.onrender.com
 5. Deploy
 
-## 📝 API Endpoints
+##  API Endpoints
 
 ### Authentication
 - `POST /api/auth/signup` - User registration
@@ -180,7 +180,7 @@ npm run dev
 - Touch-friendly buttons
 - Optimized for all screen sizes
 
-## 🤝 Contributing
+##  Contributing
 
 1. Fork the repository
 2. Create a feature branch (`git checkout -b feature/amazing-feature`)
@@ -188,11 +188,11 @@ npm run dev
 4. Push to the branch (`git push origin feature/amazing-feature`)
 5. Open a Pull Request
 
-## 📄 License
+##  License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## 👨‍💻 Author
+##  Author
 
 **Your Name**
 - GitHub: [@Lokeshkunapuli]([https://github.com/Lokeshkunapuli])
@@ -206,4 +206,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - All the open-source contributors
 =======
 # student-notes-platform
->>>>>>> 68a5a87d56260d103162900db17e49a34b03e09a
