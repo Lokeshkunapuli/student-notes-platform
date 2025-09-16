@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Student Notes & Resource Sharing Platform
 
 A full-stack MERN application that allows students to share, discover, and manage educational resources and notes. Built with React, Node.js, Express, and MongoDB.
@@ -203,3 +204,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - Vite for the fast build tool
 - MongoDB for the flexible database
 - All the open-source contributors
+=======
+# student-notes-platform
+>>>>>>> 68a5a87d56260d103162900db17e49a34b03e09a
