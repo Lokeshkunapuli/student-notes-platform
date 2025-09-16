@@ -76,7 +76,7 @@ Student-Notes-Platform/
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/yourusername/student-notes-platform.git
+git clone https://github.com/Lokeshkunapuli/student-notes-platform.git
 cd student-notes-platform
 ```
 
@@ -195,7 +195,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 👨‍💻 Author
 
 **Your Name**
-- GitHub: [@Lokeshkunapuli]([https://github.com/yourusername](https://github.com/Lokeshkunapuli))
+- GitHub: [@Lokeshkunapuli]([https://github.com/Lokeshkunapuli])
 - Email: kunapulilokesh777@gmail.com
 
 ## 🙏 Acknowledgments
