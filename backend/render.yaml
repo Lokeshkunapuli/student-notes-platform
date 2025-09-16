@@ -1,0 +1,22 @@
+services:
+  - type: web
+    name: student-notes-backend
+    env: node
+    plan: free
+    buildCommand: npm install
+    startCommand: npm start
+    envVars:
+      - key: NODE_ENV
+        value: production
+      - key: MONGO_URI
+        fromDatabase:
+          name: mongodb
+          property: connectionString
+      - key: JWT_SECRET
+        generateValue: true
+      - key: CLIENT_ORIGIN
+        value: https://your-frontend-domain.vercel.app
+
+databases:
+  - name: mongodb
+    plan: free
